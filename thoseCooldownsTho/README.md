@@ -7,7 +7,7 @@
 4. When the user presses a key on the keyboard, the corresponding icon's image should darken, to signify the ability is no long available to use.
    - *Note: the id's for each image corresponds to the key to be pressed (q,w,e,r). Pressing any other key should do nothing.*
    - *Hint: dulling the image can be done with the `filter` property and a value like `brightness(.3)`*
-5. Each ability has it's own cooldown time.
+5. Each ability has it's own [cooldown time](http://leagueoflegends.wikia.com/wiki/Lux).
    - q : 10 sec
    - w : 10 sec
    - e : 8 sec
