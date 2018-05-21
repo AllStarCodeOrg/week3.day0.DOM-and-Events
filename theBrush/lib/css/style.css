@@ -1,0 +1,27 @@
+body{
+    margin:0;
+}
+
+#title{
+    color: red;
+    font-size: 72px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width:100%;
+}
+
+.main_container{
+    background-image: url("../../assets/brush.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rengar{
+    height: 400px;
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: 
+    linear-gradient(rgba(255,255,255,.75),rgba(255,255,255,.75)),
+    url(../../assets/lux.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+
+.main_container{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 75%;
+}
+
+.main_container img{
+    border: solid black 2px;
+    border-radius: 16px;
+    box-shadow: -5px 5px 8px #faf735;
+}

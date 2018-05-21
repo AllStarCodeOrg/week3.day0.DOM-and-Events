@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+h2{
+    text-transform: uppercase;
+    padding: 15px;
+    background-color: #000000cc;
+    border: solid 2px white;
+    border-radius: 20px;
+    margin: 0.83em;
+}
+.main_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.champ_container {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom: white 2px solid;
+}
+
+.zoe {
+    color:#ea794e;
+    background-image: url("../../assets/zoe.jpg");
+}
+
+.kaisa{
+    color:#9959a2;
+    background-image: url("../../assets/kaisa.jpg");
+}
+
+.ornn{
+    color: #ce4379;
+    background-image: url("../../assets/ornn.jpg");
+}
+
+/* SHOULD USE THE DOM AND JS TO ADD THIS */
+/* .pyke{
+    color: #92fdfe;
+    background-image: url("../../assets/pyke.jpg");
+} */
+
+footer{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: black;
+    color: white;
+    font-size: 3em;
+}
