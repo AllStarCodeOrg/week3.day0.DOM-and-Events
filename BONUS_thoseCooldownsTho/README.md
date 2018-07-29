@@ -3,7 +3,7 @@
 2. View the original HTML in the browser. The four icons correspond to 4 abilities. 
    - In a game, a character's abilities are too powerful to be used without a cooldown (a period of time when the ability cannot be used).
 3. This task will be more open-ended than the others.
-   - *Tip: Before tackling all of the icons, just try getting 1 ability to work. Ccoding the rest will be easier!*
+   - *Tip: Before tackling all of the icons, just try getting 1 ability to work. Coding the rest will be easier!*
 4. When the user presses a key on the keyboard, the corresponding icon's image should darken, to signify the ability is no long available to use.
    - *Note: the id's for each image corresponds to the key to be pressed (q,w,e,r). Pressing any other key should do nothing.*
    - *Hint: dulling the image can be done with the `filter` property and a value like `brightness(.3)`*
