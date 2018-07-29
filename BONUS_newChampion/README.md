@@ -6,3 +6,4 @@
    - *Note: the background image and styling are already taken care of in the CSS. Also, I know by the time you see this, there are probably 10 newer champions out since Pyke, but bear with me! Oh, and how are finding the secrets going for you? (This doesn't count as one)*
 4. Using the DOM, set the `.pyke` class `background-image` property to the "pyke.jpg" image found in the "assets" folder
    - Also, set the `color` property to #92fdfe
+5. [Secret Website](https://2018-asc-secret.glitch.me/)
